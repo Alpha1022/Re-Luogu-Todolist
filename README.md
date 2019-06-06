@@ -1,5 +1,7 @@
 # Re-Luogu-Todolist
 
+**并没有写完，请不要随便食用（除非你会写）。**
+
 灵感来源于 memset0 的 luogu-todolist 项目，把工作全部放到前端。
 
 使用的东西：
